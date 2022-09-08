@@ -1,0 +1,33 @@
+.img {
+  width: 4rem;
+  position: relative;
+  left: -2rem;
+}
+.nav {
+  position: fixed;
+  width: 100%;
+  z-index: 5;
+  top: 0%;
+  left: 0%;
+}
+
+.Salva {
+  color: #fff;
+  font-size: 30px;
+  font-family: "Poppins";
+}
+
+.activess {
+  background: #072983;
+}
+
+a {
+  color: #fff;
+  display: flex;
+  align-items: center;
+
+  text-decoration: none;
+  padding: 0 1rem;
+  height: 100%;
+  cursor: pointer;
+}

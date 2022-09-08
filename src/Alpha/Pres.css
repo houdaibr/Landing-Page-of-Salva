@@ -1,0 +1,201 @@
+.Pres {
+  background-image: url("../assets/Houda.png");
+
+  position: relative;
+  left: -2.15rem;
+  top: -6rem;
+  width: 84.3rem;
+  height: 45rem;
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+}
+.Saviour {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  top: 38%;
+
+  width: 50%;
+  height: 35rem;
+  left: -10%;
+}
+.s1 {
+  font-weight: bold;
+  position: relative;
+  left: 8.5%;
+  top: 3.2%;
+  color: #fff;
+  font-size: 64px;
+  z-index: 1;
+  font-family: "Poppins";
+  font-weight: bolder;
+  -webkit-text-stroke-width: 2.5px;
+  -webkit-text-stroke-color: rgb(255, 255, 255);
+  color: #fff;
+}
+.s3 {
+  font-weight: bold;
+  font-style: italic;
+  position: relative;
+  left: 27%;
+  top: 23.5%;
+  color: #fff;
+  font-size: 24px;
+  z-index: 0;
+  font-family: "Poppins";
+}
+.s2 {
+  font-weight: bold;
+  position: relative;
+  left: 50%;
+  top: 5%;
+  color: #fff;
+  font-size: 64px;
+  z-index: 0;
+  font-family: "Poppins";
+  font-weight: bolder;
+  -webkit-text-stroke-width: 2.5px;
+  -webkit-text-stroke-color: rgb(255, 255, 255);
+  color: #fff;
+}
+.Store {
+  display: grid;
+  grid-template-columns: auto auto;
+  column-gap: 2rem;
+  position: relative;
+  left: 26.5%;
+  margin: auto;
+  z-index: 4;
+  top: -4%;
+}
+.Doxnload {
+  font-size: 12px;
+  width: 100%;
+  font-family: "Poppins";
+  font-weight: bold;
+}
+.AppStore {
+  font-size: 20px;
+  width: 100%;
+  font-family: "Poppins";
+  font-weight: bolder;
+  position: relative;
+  top: -5%;
+}
+
+.Store1 {
+  width: 12.5rem;
+  height: 20%;
+  display: flex;
+  height: auto;
+  background-color: rgba(255, 255, 254, 0.88);
+  border-radius: 10px;
+  border: 2px solid rgb(0, 0, 0);
+}
+.Store2 {
+  width: 10rem;
+  height: auto;
+  background-color: rgba(255, 255, 254, 0.88);
+  border-radius: 10px;
+  border: 2px solid rgb(0, 0, 0);
+}
+
+.Alpha {
+  position: absolute;
+  top: 21%;
+  z-index: 1;
+  width: 350.5px;
+  height: 340.56px;
+  left: 15%;
+  right: 0rem;
+}
+.ligne {
+  width: 100%;
+  margin: auto;
+  position: absolute;
+  top: 9rem;
+  height: 0.08px;
+  background-color: rgba(255, 255, 255, 0.24);
+  z-index: 3;
+}
+.Alpha1 {
+  position: absolute;
+  top: 25%;
+  z-index: 1;
+  width: 500px;
+  height: 500px;
+  left: 57%;
+  right: 0rem;
+}
+.Alpha2 {
+  position: absolute;
+  top: 8%;
+  z-index: 1;
+  width: 600px;
+  height: 650px;
+  left: 55%;
+  right: 0rem;
+}
+
+.h30 {
+  position: absolute;
+  top: 6.3rem;
+  z-index: 1;
+  left: 9rem;
+  font-weight: bold;
+
+  color: #fff;
+  font-size: 28px;
+  width: 15rem;
+  font-family: "Poppins";
+}
+.h31 {
+  position: absolute;
+  top: 8.7rem;
+  justify-content: space-between;
+  z-index: 1;
+  left: 9rem;
+  font-weight: bolder;
+  -webkit-text-stroke-width: 2.5px;
+  -webkit-text-stroke-color: rgb(255, 255, 255);
+  color: #fff;
+  font-size: 64px;
+  width: 37rem;
+  font-family: "Poppins";
+}
+
+.h32 {
+  position: absolute;
+  top: 24rem;
+  z-index: 1;
+  left: 8.5rem;
+  font-weight: bold;
+
+  color: #fff;
+  font-size: 24px;
+  width: 35rem;
+  font-family: "Poppins";
+}
+
+.Click {
+  position: absolute;
+  top: 34rem;
+  z-index: 1;
+  left: 9.5rem;
+  background-color: #fff;
+  border-radius: 15px;
+  font-weight: bold;
+  text-decoration: none;
+  outline: none;
+  height: 2.5rem;
+  font-size: 23px;
+  color: black;
+  margin: auto;
+  padding-top: auto;
+  padding-bottom: auto;
+  padding-left: 39px;
+
+  width: 12rem;
+  font-family: "Poppins";
+}

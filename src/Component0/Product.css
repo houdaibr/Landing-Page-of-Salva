@@ -1,0 +1,248 @@
+.Engagement {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  padding: 0 2rem;
+}
+
+.Amine {
+  height: auto;
+}
+.Past {
+  position: relative;
+  left: 1rem;
+  top: -2rem;
+}
+.Header2 {
+  margin-top: 2px;
+  margin-left: 10px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  display: flex;
+  gap: 5rem;
+  font-size: 50px;
+  justify-content: center;
+  color: #0041a0;
+}
+.Comps {
+  display: flex;
+  gap: 1rem;
+  font-weight: lighter;
+}
+.Textes {
+  width: 960px;
+  height: 113px;
+  left: 190px;
+  margin-top: 10px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 36px;
+  text-align: center;
+  position: absolute;
+  color: #0041a0;
+}
+.Texts {
+  display: flex;
+  gap: 5rem;
+  justify-content: center;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #625dbf;
+  font-family: "Neue Machina Ultrabold";
+  src: url("//db.onlinewebfonts.com/t/1d7e20364d1ec722b206ea329d44fbbd.eot");
+  src: url("//db.onlinewebfonts.com/t/1d7e20364d1ec722b206ea329d44fbbd.eot?#iefix")
+      format("embedded-opentype"),
+    url("//db.onlinewebfonts.com/t/1d7e20364d1ec722b206ea329d44fbbd.woff2")
+      format("woff2"),
+    url("//db.onlinewebfonts.com/t/1d7e20364d1ec722b206ea329d44fbbd.woff")
+      format("woff"),
+    url("//db.onlinewebfonts.com/t/1d7e20364d1ec722b206ea329d44fbbd.ttf")
+      format("truetype"),
+    url("//db.onlinewebfonts.com/t/1d7e20364d1ec722b206ea329d44fbbd.svg#Neue Machina Ultrabold")
+      format("svg");
+}
+.DATAS {
+  margin-top: 5.45%;
+  display: flex;
+  gap: 4rem;
+  padding: auto;
+  position: relative;
+  justify-content: space-around;
+  top: 2rem;
+  bottom: 2rem;
+}
+.DATA {
+  display: flex;
+  flex-direction: column;
+
+  gap: 1rem;
+  padding: 1rem 1rem 2rem 2rem;
+
+  color: #072983;
+  font-family: "Poppins";
+  font-style: italic;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 36px;
+  justify-content: center;
+}
+
+.DATA > :nth-child(2) {
+  font-size: 1rem;
+  font-weight: bold;
+}
+.DATA > :nth-child(3) {
+  font-size: 0.9rem;
+  line-height: 25px;
+  text-indent: 5px;
+}
+
+.plusinfos {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  font-size: 1rem;
+  color: blue;
+}
+
+.Engage1 {
+  margin: auto;
+  width: 18rem;
+  height: 13rem;
+}
+.principales {
+  position: relative;
+  top: 8rem;
+  left: -20rem;
+  font-family: "Poppins";
+  font-style: italic;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 36px;
+  color: #072983;
+}
+.features {
+  margin-top: 17.45%;
+  display: flex;
+  gap: 4rem;
+  padding: auto;
+  position: relative;
+  justify-content: space-around;
+  top: 2rem;
+  bottom: 2rem;
+  margin-left: 0px;
+  padding-left: 10px;
+}
+.feature {
+  width: 775px;
+  height: 147px;
+}
+.tft {
+  width: 177px;
+  height: 49px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 48px;
+  text-align: center;
+
+  color: #00419f;
+}
+.paragraph {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  color: #00419f;
+}
+.grid-container {
+  column-gap: 0ex;
+  row-gap: 0px;
+  display: grid;
+  grid-template-columns: 80px 100px;
+  grid-template-rows: 60px 110px;
+  margin-top: 190px;
+  margin-left: 100px;
+}
+
+.griditem-1 {
+  width: 64px;
+  height: 64px;
+}
+.titlesec {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 32px;
+  margin-top: 10px;
+  color: #00419f;
+  text-decoration: underline;
+  text-decoration-color: #0551dc;
+  text-decoration-thickness: 3px;
+}
+.parasec {
+  width: 681px;
+  height: 60px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 30px;
+
+  color: #00419f;
+}
+.parasec1 {
+  width: 681px;
+  height: 99px;
+
+  font-family: "Poppins";
+  font-style: italic;
+  font-weight: 300;
+
+  font-size: 20px;
+  line-height: 30px;
+  margin-left: 1px;
+
+  color: #00419f;
+}
+.grid-container1 {
+  column-gap: 0ex;
+  row-gap: 0px;
+  display: grid;
+  grid-template-columns: 80px 100px;
+  grid-template-rows: 60px 130px;
+  margin-left: 100px;
+  margin-top: 0px;
+}
+.animation1{
+ 
+ animation: zoom-in 2s ease 4 ;
+    animation-delay:0s;
+  }
+  .animation2{
+    animation: zoom-in 2s ease 4 ;
+    animation-delay:1s;
+  }
+  .sending{
+    margin-top: 120px;
+  }
+  .animation3{
+ 
+    animation: zoom-in 2s ease  4;
+       animation-delay:2s;
+       height: 170px;
+     }
+  @keyframes zoom-in{
+    from{
+      transform:scale(0);
+    }
+    to{
+      transform:scale(1);
+    }
+  }
+
