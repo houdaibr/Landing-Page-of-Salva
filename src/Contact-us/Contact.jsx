@@ -100,7 +100,7 @@ const ContactUs = () => {
             </div>
             <p>
               {" "}
-              <div className="coordonné11"> Salva@gmail.com</div>{" "}
+              <div className="coordonné11">orange.summer.challenge.2022@salva.social</div>{" "}
             </p>
           </div>
           <div className="row11">
@@ -109,22 +109,22 @@ const ContactUs = () => {
             </div>
             <p>
               {" "}
-              <div className="coordonné16"> 0623567890</div>{" "}
+              <div className="coordonné16"> 07789890</div>{" "}
             </p>
           </div>
           <div className="row15">
             <div></div>
             <div className="RS">
-              <a href="https://www.youtube.com/watch?v=gpqoZQ8GNK8&list=PLr6MAwqc56XkaCLacWWODhBx-sZE9W1ks&index=5&t=5940s">
+              <a href="https://www.facebook.com/profile.php?id=100086741495746&sk=followers">
                 <FaFacebookF className="Icon" />
               </a>
-              <a href="https://www.youtube.com/watch?v=gpqoZQ8GNK8&list=PLr6MAwqc56XkaCLacWWODhBx-sZE9W1ks&index=5&t=5940s">
+              <a href="https://twitter.com/Salva20886397">
                 <FaTwitter className="Icon" />
               </a>
-              <a href="https://www.youtube.com/watch?v=gpqoZQ8GNK8&list=PLr6MAwqc56XkaCLacWWODhBx-sZE9W1ks&index=5&t=5940s">
+              <a href="https://www.linkedin.com/in/salva-social-a8b272253/">
                 <FaLinkedinIn className="Icon" />
               </a>
-              <a href="https://www.youtube.com/watch?v=gpqoZQ8GNK8&list=PLr6MAwqc56XkaCLacWWODhBx-sZE9W1ks&index=5&t=5940s">
+              <a href="https://instagram.com/saveyourlife01?igshid=YmMyMTA2M2Y=">
                 <FaInstagram className="Icon" />
               </a>{" "}
               

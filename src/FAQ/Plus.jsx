@@ -7,50 +7,75 @@ function Plus() {
   const data = {
     rows: [
       {
-        title: "Curabitur laoreet, mauris vel blandit fringilla",
+        title: "Can I use the bracelet?",
         content: (
           <p>
             <div className="answers">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sed
-              tempor sem. Aenean vel turpis feugiat, ultricies metus at,
-              consequat velit. Curabitur est nibh, varius in tellus nec, mattis
-              pulvinar metus.
+            first you need to wear the bracelet. Make sure it is secure. If you are in danger, trigger the button. This will first launch the buoy system embedded in the bracelet to keep you afloat. At the same time, the lifeguard and the automated board will both receives alerts with the user's location. 
+The boat will automatically come to the user's location while the lifeguard can also come to the user's rescue.
             </div>
           </p>
         ),
       },
 
       {
-        title: "Curabitur laoreet, mauris vel blandit fringilla",
+        title: "Can reuse the bracelet?",
         content: (
           <p>
             <div className="answers">
               {" "}
-              Nunc maximus, magna at ultricies elementum, risus turpis vulputate
-              quam, vitae convallis ex tortor sed dolor.
+              Salva Bracelet is 100% reusable. In case the system has been triggered. The user only needs to replace the co2 cylinder and it will be ready to use again.
             </div>
           </p>
         ),
       },
       {
-        title: "Curabitur laoreet, mauris vel blandit fringilla",
+        title: "what is the lifespan of the salva prduct?",
         content: (
           <p>
             <div className="answers">
-              Curabitur laoreet, mauris vel blandit fringilla, leo elit rhoncus
-              nunc, ac sagittis leo elit vel lorem. Fusce tempor lacus ut libero
-              posuere viverra. Nunc velit dolor, tincidunt at varius vel,
-              laoreet vel quam.
+            The Salva bracelet needs to be recharged every 4 weeks for optimum usage. The embedded LEDs show the percentage of the battery.
             </div>
           </p>
         ),
       },
       {
-        title: "Curabitur laoreet, mauris vel blandit fringilla",
+        title: " how long does the automated board take to arrive?",
         content: (
           <p>
             {" "}
-            <div className="answers"> current version is 1.2.1</div>
+            <div className="answers"> Depending on how far the person in danger, the maximum time needed for the automated board to arrive is estimated to be 5 minutes.</div>
+          </p>
+        ),
+      },
+      {
+        title: "Can you swap out the bracelet band? ",
+        content: (
+          <p>
+            <div className="answers">
+              {" "}
+              Yes , the bracelet can be made into an armband easily.            </div>
+          </p>
+        ),
+      },
+      {
+        title: "Can left-handed users wear it?",
+        content: (
+          <p>
+            <div className="answers">
+              {" "}
+              Yes our product can be used with both hands.       </div>
+          </p>
+        ),
+      },
+      {
+        title: "Can this product be used to track the user's location? ",
+        content: (
+          <p>
+            <div className="answers">
+              {" "}
+              With Salva we want to make sure parents not to worry about their children, they can be given access to locate their children to ensure they are safe.
+   </div>
           </p>
         ),
       },

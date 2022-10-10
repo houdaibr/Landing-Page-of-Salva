@@ -7,22 +7,22 @@ import FRMN from "../assets/FRMNlogo-removebg-preview.png";
 export const Constant = [
   {
     image: <img className="Orange" src={orange} alt="orange" />,
-    titre:<div className="orange">Orange</div>,
+    titre:<a href="https://www.orange.com/fr" className="orange">Orange</a>,
     clas: "class",
   },
   {
     image:<img className="Sisr" src={CICR} alt="cicr" />,
-    titre:<div className="sisr"> Comité international de la Croix-Rouge</div> ,
+    titre:<a href="https://www.icrc.org/fr" className="sisr"> Comité international de la Croix-Rouge</a> ,
     clas: "class1",
   },
   {
     image:<img className="CroixRouge" src={CroixRouge} alt="croixrouge" />,
-    titre: <div className="croixRouge"> Croix Rouge</div>,
+    titre: <a href= "https://www.icrc.org/fr/ou-nous-intervenons/africa/maroc" className="croixRouge"> Croix Rouge</a>,
     clas: "class2",
   },
   {
     image:<img className="Frmn" src={FRMN} alt="frmn" />,
-    titre: <div className="frmn">Fédération Royale Marocaine de Natation</div>,
+    titre: <a href="https://frmnatation.com/" className="frmn">Fédération Royale Marocaine de Natation</a>,
     
     clas: "class3",
   },

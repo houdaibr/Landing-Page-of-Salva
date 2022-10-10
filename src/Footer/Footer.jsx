@@ -26,24 +26,21 @@ function Footer() {
           <div>
             <p>
               <div className="content6">
-                Lörem ipsum od ohet dilogi. Bell trabel, samuligt, ohöbel utom
-                diska. Jinesade bel när feras redorade i belogi. FAR paratyp i
-                muvåning, och pesask vyfisat. Viktiga poddradio har un mad och
-                inde.
+              SALVA is a bracelet connected to a smart board, in addition to a mobile application. The goal is simple: save people from drowning.
               </div>
             </p>
             <div className="RS1">
               {" "}
-              <a href="https://www.youtube.com/watch?v=gpqoZQ8GNK8&list=PLr6MAwqc56XkaCLacWWODhBx-sZE9W1ks&index=5&t=5940s">
+              <a href="https://www.facebook.com/profile.php?id=100086741495746">
                 <FaFacebookF className="Icon5" />
               </a>
-              <a href="https://www.youtube.com/watch?v=gpqoZQ8GNK8&list=PLr6MAwqc56XkaCLacWWODhBx-sZE9W1ks&index=5&t=5940s">
+              <a href="https://twitter.com/Salva20886397">
                 <FaTwitter className="Icon5" />
               </a>
-              <a href="https://www.youtube.com/watch?v=gpqoZQ8GNK8&list=PLr6MAwqc56XkaCLacWWODhBx-sZE9W1ks&index=5&t=5940s">
+              <a href="https://www.linkedin.com/in/salva-social-a8b272253/">
                 <FaLinkedinIn className="Icon5" />
               </a>
-              <a href="https://www.youtube.com/watch?v=gpqoZQ8GNK8&list=PLr6MAwqc56XkaCLacWWODhBx-sZE9W1ks&index=5&t=5940s">
+              <a href="https://instagram.com/saveyourlife01?igshid=YmMyMTA2M2Y=">
                 <FaInstagram className="Icon5" />
               </a>
             </div>
