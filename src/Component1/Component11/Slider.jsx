@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import "./Slider.css";
-import { data } from "./data";
+import { data } from "./Data";
 import { FiChevronRight, FiChevronLeft } from "react-icons/fi";
 const Cards = () => {
   const [donnée, setD] = useState(data);
