@@ -1,7 +1,7 @@
 import React from "react";
 import logo from "../assets/Logo.svg";
 import RSS from "../assets/resausocial.png";
-import "./footer.css";
+import "./Footer.css";
 
 import {
   FaFacebookF,
